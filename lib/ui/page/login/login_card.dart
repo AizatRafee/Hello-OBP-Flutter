@@ -105,8 +105,8 @@ class _LoginCardState extends State<LoginCard>
     animation.addListener(() => this.setState(() {}));
     controller.forward();
 
-    username = "Robert.Us.01";
-    pass = "X!39670561";
+//    username = "Robert.Us.01";
+//    pass = "X!39670561";
     usernameController.text = username;
     passController.text = pass;
   }

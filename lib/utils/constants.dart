@@ -4,8 +4,8 @@ import 'package:flutter/material.dart';
 
 class Constants {
   static const String appName = "ez";
-  static const String API_HOST = "https://apisandbox.openbankproject.com/"; // Strings => "https://apisandbox.strings.my/";
-  static const String CONSUMER_KEY = "kuiknznqavm02ai452njrbko4zeqdvxecdhdlzbm"; // Strings => "agimlpwjfrl32yvibqj3gp11nkedfy20kovi1f5z";
+  static const String API_HOST = "https://apisandbox.strings.my/"; //"https://apisandbox.openbankproject.com/"; // Strings => "https://apisandbox.strings.my/";
+  static const String CONSUMER_KEY = "xnren21ubwl2qlai0bu4cy3yacv1ehkmfdo2dhex"; //"kuiknznqavm02ai452njrbko4zeqdvxecdhdlzbm"; // Strings => "xnren21ubwl2qlai0bu4cy3yacv1ehkmfdo2dhex";
   static const String BANK_ID = "inv.01.us.inv"; // Strings => "CIBBMYKL";
 
   static const String enter_valid_username_password = "Enter valid username and password";
